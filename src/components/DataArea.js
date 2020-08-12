@@ -19,6 +19,7 @@ const DataArea = () => {
     ]
   });
 
+  //Sorting 
   const handleSort = heading => {
     let currentOrder = developerState.headings
       .filter(elem => elem.name === heading)
