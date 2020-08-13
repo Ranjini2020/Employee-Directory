@@ -32,7 +32,7 @@ The user is able to:
 ## Links
 
 
-* the URL to the deployed application:
+* the URL to the deployed application: https://ranjini2020.github.io/Employee-Directory/
 
 * the URL to the Github repository: https://github.com/Ranjini2020/Employee-Directory
 
