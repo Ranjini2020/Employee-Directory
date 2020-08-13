@@ -34,5 +34,6 @@ The user is able to:
 
 * the URL to the deployed application:
 
-* the URL to the Github repository:
+* the URL to the Github repository: https://github.com/Ranjini2020/Employee-Directory
+
 
